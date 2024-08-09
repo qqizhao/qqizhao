@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently a undergraduate third year student.
+- 🌱 I’m interested in computer vision and deep dearning.
+
+
 <!--
 **qqizhao/qqizhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
