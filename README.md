@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently a undergraduate third year student.
+- 🔭 I’m currently a undergraduate forth year student.
 - 🌱 I’m interested in computer vision and deep dearning.
 
 
